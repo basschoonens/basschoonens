@@ -13,9 +13,6 @@ I love to dive deep into the world of coding and technology!
 - **Frameworks & Libraries**: Spring Boot, React, Node.js
 - **Tools**: Git, GitHub
 
-### 📊 GitHub Stats
-![Bas's GitHub stats](https://github-readme-stats.vercel.app/api?username=basschoonens&show_icons=true)
-
 ### 🚀 Top Projects
 - [**Course assignment for Novi Hogeschool - Frontend The Art Room**](https://github.com/basschoonens/frontend-the-art-room-eindopdracht)
 - [**Course assignment for Novi Hogeschool - Backend The Art Room**](https://github.com/basschoonens/frontend-the-art-room-eindopdracht)
