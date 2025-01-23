@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Bas Schoonens from Hilversum, The Netherlands 
 
-🎓 I’m currently looking for work and completing a full HBO course in software development. I've already completed the full-stack developer course and am very excited to get started in the development world.  
+🎓 Currently working at Pink Pollos and completing a bachelor course in software development. I've already completed the full-stack developer course and am very excited to get started in the development world.  
 I love to dive deep into the world of coding and technology!
 
 - 👀 I’m interested in **Full-Stack Development**, particularly in creating seamless and interactive web applications.
@@ -12,7 +12,3 @@ I love to dive deep into the world of coding and technology!
 - **Languages**: Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries**: Spring Boot, React, Node.js
 - **Tools**: Git, GitHub
-
-### 🚀 Top Projects
-- [**Course assignment for Novi Hogeschool - Frontend The Art Room**](https://github.com/basschoonens/frontend-the-art-room-eindopdracht)
-- [**Course assignment for Novi Hogeschool - Backend The Art Room**](https://github.com/basschoonens/frontend-the-art-room-eindopdracht)
