@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Bas Schoonens from Hilversum, The Netherlands 
 
-🎓 Currently working at Pink Pollos and completing a bachelor course in software development. I've already completed the full-stack developer course and am very excited to get started in the development world.  
-I love to dive deep into the world of coding and technology!
+🎓 Currently working at Pink Pollos and completing a bachelor course in software development. I love to dive deep into the world of coding and technology!
 
 - 👀 I’m interested in **Full-Stack Development**, particularly in creating seamless and interactive web applications.
 - 🌱 I’m currently working with **Java with Spring and Spring Boot** for back-end development and **HTML, CSS, JavaScript** for front-end magic.
